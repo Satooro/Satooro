@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá Mundo! 👋
 
+- Estudando Desenvolvimento de Sistemas - Instituição CPS - Minas.
 <!--
 **Satooro/Satooro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
