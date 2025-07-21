@@ -55,4 +55,6 @@
 
 ###
 
-![Mine](images/mine.gif)
+<p align="center">
+  <img src="images/mine.gif" alt="Mine banner gif" />
+</p>
