@@ -6,11 +6,6 @@
 <br clear="both">
 
 <h4 align="center">Hello I'm Satooro! A aspirant to Full-Stack Developer, who seeks to improve his skills in the most diverse areas 👋</h4>
-
-###
-
-<br clear="both">
-
 <h4 align="center">I'm passionate in games and like to create modifications and plugins for them ❤️</h4>
 
 ###
