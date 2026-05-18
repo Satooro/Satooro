@@ -1,55 +1,35 @@
-<hr>
-<h2 align="center">About me</h2>
+<h1 align="center">Hi, I'm João Victor Diniz 👋</h1>
+
+<h4 align="center">Software Engineer • FullStack Developer • TypeScript & Java enjoyer</h4>
+
+<p align="left">I'm <strong>João Victor Diniz</strong>, also known as <strong>Satooro</strong>. I build web experiences, explore how systems work, and freelance around the globe.</p>
 
 ###
 
-<br clear="both">
+<h2 align="left">About Me</h2>
 
-<h4 align="center">Hello I'm Satooro! A aspirant to Full-Stack Developer, who seeks to improve his skills in the most diverse areas 👋</h4>
-<h4 align="center">I'm passionate in games and like to create modifications and plugins for them ❤️</h4>
+- I started programming with <strong>Java</strong>, mostly because of Minecraft.
+- I began with JavaScript and later enrolled in an in-person course to improve my TypeScript skills with guidance from experienced technology professionals
+- I'm curious by default and aways trying to understand how things work under the hood
+
+<h2 align="left">Currently focused on</h2>
+
+- Building full-stack products with <strong>TypeScript</strong> and <strong>Node.js</strong>, and when is possible using <strong>Java</strong>.
+- Improving developer experience through side projects and inspirations from browsing and trying to replicate and do it better.
+- Learning anything that helps me build better, faster, and more reliable software.
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-<hr>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="center">
-  <a href="https://twitch.tv/satooro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joaodinizalmeida/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/398374208633044992" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satooro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-<br>
-
-###
 
 <p align="center">
-  <img src="images/mine.gif" alt="Mine banner gif" />
+  <img src="images/mine.gif" alt="Minecraft gif" />
 </p>
